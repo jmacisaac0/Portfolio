@@ -1,0 +1,10 @@
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete Program.csprojResolveAssemblyReference.cache
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete_Program.AthleteForm.resources
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete_Program.Properties.Resources.resources
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete Program.csproj.GenerateResource.Cache
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete Program.csproj.CoreCompileInputs.cache
+c:\users\macju\source\repos\Athlete Program\Athlete Program\bin\Debug\Athlete Program.exe.config
+c:\users\macju\source\repos\Athlete Program\Athlete Program\bin\Debug\Athlete Program.exe
+c:\users\macju\source\repos\Athlete Program\Athlete Program\bin\Debug\Athlete Program.pdb
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete Program.exe
+c:\users\macju\source\repos\Athlete Program\Athlete Program\obj\Debug\Athlete Program.pdb
