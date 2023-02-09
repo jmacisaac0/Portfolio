@@ -1,5 +1,5 @@
 
-# Julia's Portfolio
+# Juliet's Portfolio
 
 This is a collection of projects written by Julia. They are listed below, along with a short summary and where they were completed.
 
